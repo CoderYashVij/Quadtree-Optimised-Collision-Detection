@@ -1,0 +1,16 @@
+.link {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.link:hover {
+    background-color: #ddd;
+}
+.gap {
+    margin-bottom: 1%;
+}
